@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **henryluke127@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19n1xxyjnrRgK4DphauJAojkG72UX_t8e/view?usp=sharing](https://drive.google.com/file/d/19n1xxyjnrRgK4DphauJAojkG72UX_t8e/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19n1xxyjnrRgK4DphauJAojkG72UX_t8e/view?usp=sharing](https://drive.google.com/file/d/19n1xxyjnrRgK4DphauJAojkG72UX_t8e/view?usp=sharing&theme=dark)
 
 
 <h3 align="left">Languages and Tools:</h3>
