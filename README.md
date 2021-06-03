@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luke Henry</h1>
 <h3 align="center">A Marine Corps Veteran turned Software Engineer | Traded maintaining weapon systems for maintaining code bases</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luke82601&label=Profile%20views&color=0e75b6&style=flat" alt="luke82601" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luke82601&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="luke82601" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luke82601" alt="luke82601" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **henryluke127@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19n1xxyjnrRgK4DphauJAojkG72UX_t8e/view?usp=sharing](https://drive.google.com/file/d/19n1xxyjnrRgK4DphauJAojkG72UX_t8e/view?usp=sharing&theme=dark)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19n1xxyjnrRgK4DphauJAojkG72UX_t8e/view?usp=sharing](https://drive.google.com/file/d/19n1xxyjnrRgK4DphauJAojkG72UX_t8e/view?usp=sharing&)
 
 
 <h3 align="left">Languages and Tools:</h3>
