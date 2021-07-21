@@ -4,9 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luke82601&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="luke-kalen" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=luke82601&theme=dark" alt="luke82601" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=luke82601&theme=dark" alt="luke-kalen" /></a> </p>
 
-- 🔭 I’m currently working on [PayBoards](https://github.com/Luke82601/PayBoards)
+- 🔭 I’m currently working on [PayBoards](https://github.com/luke-kalen/PayBoards)
 
 - 🌱 I’m currently learning **Typescript, Redux, Docker**
 
