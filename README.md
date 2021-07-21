@@ -2,7 +2,7 @@
 <h3 align="center">A Marine Corps Veteran turned Software Engineer</h3>
 <h3 align="center">Traded maintaining weapon systems for maintaining code bases</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=luke82601&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="luke82601" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=luke82601&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="luke-kalen" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=luke82601&theme=dark" alt="luke82601" /></a> </p>
 
